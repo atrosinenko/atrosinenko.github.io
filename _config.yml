@@ -1,0 +1,8 @@
+title: Home page of Anatoly Trosinenko
+baseurl: ""
+url: "https://atrosinenko.github.io"
+github_username: atrosinenko
+
+
+markdown: kramdown
+theme: jekyll-theme-hacker
