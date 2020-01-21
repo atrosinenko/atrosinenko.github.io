@@ -46,3 +46,4 @@ Chisel is a hardware description language embedded into Scala as a DSL. It makes
 
 * [afl-dr](https://github.com/atrosinenko/afl-dr) -- implementation of specific AFL-like instrumentation with [DynamoRIO](http://dynamorio.org/), not a bpfinst instrumenter
 * [Analog video signal generator](https://github.com/atrosinenko/composite-video-generator) in Chisel -- video signal generator (works only for B/W) for [Marsohod2](https://marsohod.org/howtostart/marsohod2) FPGA board... and rudimentary oscilloscope for self-debugging :)
+* [Port of MemTest86+ to RISC-V](https://github.com/atrosinenko/memtest86-plus-riscv) -- an attempt to make MemTest86+ cross-platform and specifically run on my development board on RocketChip soft-processor
