@@ -2,8 +2,6 @@
 layout: default
 ---
 
-_Finding some interesting technologies, testing, extending and [blogging about](https://habr.com/ru/users/atrosinenko/posts/) (in Russian)._
-
 Areas of interests:
 * [Fuzzing](#fuzzing)
   * [Instrumentation](#instrumentation)
