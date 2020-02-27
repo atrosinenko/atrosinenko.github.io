@@ -8,7 +8,7 @@ layout: default
 
 Сферы моих интересов:
 * системное программирование и фаззинг (Linux kernel и другой open source): примерный список найденных багов в ядре, а точнее &mdash; коммитов, в которых я упомянут, [можно посмотреть здесь](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=anatoly.trosinenko%40gmail.com). Есть даже несколько исправлений лично от Линуса Торвальдса &mdash; вот, что значит &laquo;вовремя отправить баг-репорт&raquo;
-* инструментация кода: [динамическая](https://github.com/atrosinenko/qinst), [статическая](https://github.com/atrosinenko/llinst) -- есть даже [вшиваемая в RISC-V софт-процессор](https://github.com/atrosinenko/simple-inst) &mdash; все они имеют примерно похожий интерфейс (в идеале он должен стать [полностью идентичным](https://github.com/atrosinenko/bpfinst-spec)). В API сделан упор на максимальную похожесть реального инструментатора на псевдокод на C
+* инструментация кода: [динамическая](https://github.com/atrosinenko/qinst), [статическая](https://github.com/atrosinenko/llinst) -- есть даже [вшиваемая в RISC-V софт-процессор](https://github.com/atrosinenko/simpleinst) &mdash; все они имеют примерно похожий интерфейс (в идеале он должен стать [полностью идентичным](https://github.com/atrosinenko/bpfinst-spec)). В API сделан упор на максимальную похожесть реального инструментатора на псевдокод на C
 * создание инструментов разработки
   * модуль поддержки Modelica, [вошедший в PMD 6.21.0](https://github.com/pmd/pmd/releases/tag/pmd_releases%2F6.21.0)
   * надстройка над PMD для минимизации исходников при сохранении инварианта &mdash; сослана в [отдельный репозиторий](https://github.com/pmd/pmd-scm) ментейнерами PMD
