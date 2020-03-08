@@ -6,6 +6,8 @@ permalink: /contacts/
 
 E-mail: anatoly (dot) trosinenko (at) gmail (dot) com
 
+Telegram: @atrosinenko
+
 GitHub: [atrosinenko](https://github.com/atrosinenko)
 
 Habr: [atrosinenko](https://habr.com/en/users/atrosinenko/)
