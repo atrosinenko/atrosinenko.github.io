@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Contacts](/contacts) / [In Russian](/ru)
+
 Areas of interests:
 * [Fuzzing](#fuzzing)
   * [Instrumentation](#instrumentation)
