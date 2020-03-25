@@ -20,5 +20,3 @@ layout: default
   * [портирование MemTest86+ на RISC-V](https://github.com/atrosinenko/memtest86-plus-riscv)
 
 Многое из этого описано в моих [статьях на Хабре](https://habr.com/ru/users/atrosinenko/posts) и [выложено на Гитхабе](https://github.com/atrosinenko).
-
-А ещё я как раз ищу работу: вот мои резюме [на русском](https://spb.hh.ru/resume/4465d3f7ff073190f10039ed1f6d4879656839) и [на английском](https://spb.hh.ru/resume/c7464acdff07c49ff30039ed1f38756f75424f).
